@@ -55,4 +55,4 @@ jobs:
           app-name: 'flowmabs'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E65A0FACAA014C97B2992F0F473C156C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_125673CC3F724DF3B718C621F319102C }}
