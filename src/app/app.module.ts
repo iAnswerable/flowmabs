@@ -48,6 +48,10 @@ import { FooterComponent } from './footer/footer.component';
     MatAutocompleteModule
 
   ],
+   exports: [
+    HeaderComponent,
+     FooterComponent
+  ]
   providers: [
     provideAnimationsAsync()
   ],
